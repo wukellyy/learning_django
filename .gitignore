@@ -1,0 +1,16 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# SQLite database
+db.sqlite3
+
+# Virtual environment
+django_test_venv/
+
+# VSCode settings (optional)
+.vscode/
+
+# Environment / secret files
+.env
